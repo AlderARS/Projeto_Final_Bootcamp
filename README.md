@@ -73,7 +73,7 @@ Para garantir a confiabilidade dos dados e a segurança do usuário, o Fince seg
 * **Segmentação por Usuário:** Criação e manipulação de apenas **uma planilha por número de telefone**. O agente nunca mistura dados entre usuários diferentes.
 * **Fidelidade aos Dados:** As atualizações na tabela baseiam-se unicamente nas informações enviadas explicitamente pelo usuário. O agente não assume ou inventa valores.
 * **Transparência:** Se o agente não souber de algo ou não tiver dados suficientes, ele deve admitir honestamente.
-* **Pesquisa de Citações:** Utiliza fontes e referências confiáveis para buscar citações e conteúdos inspiradores (Link de referência: `[INSERIR_LINK_DE_REFERENCIA_AQUI]`).
+* **Pesquisa de Citações:** Utiliza fontes e referências confiáveis para buscar citações e conteúdos inspiradores (Link de referência: `https://notebooklm.google.com/notebook/bbbd5c4a-6356-4855-842a-d4628cbb44f2`).
 
 ### Limitações Cruciais (Regras de Ouro)
 1. **Foco Temático:** O agente não sai do tema central (finanças pessoais, economia e conceitos gerais de finanças).
