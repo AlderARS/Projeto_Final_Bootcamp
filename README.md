@@ -23,7 +23,7 @@ graph TD
 ## 🎯 Caso de Uso
 
 ### O Problema
-A dificuldade de gerenciar finanças pessoais diariamente e a falta de educação financeira prática, que varia desde conceitos básicos até estratégias mais técnicas.
+A dificuldade de gerenciar finanças pessoais diariamente e a falta de educação financeira prática.
 
 ### A Solução
 - **Criação e Atualização Automatizada de Planilhas:** O Fince cria automaticamente uma planilha local para cada novo usuário. Ao longo do tempo, atualiza esses dados com base nas mensagens enviadas (ex: *"gastei 50 reais com Uber"*).
