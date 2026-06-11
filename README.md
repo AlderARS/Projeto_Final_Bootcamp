@@ -94,18 +94,18 @@ Os dados de inteligência financeira e base especializada para respostas técnic
 | **Audiobooks** | MP4 | Base especializada contendo audiobooks sobre finanças. |
 | **Canais_Youtube** | MP4 | Compilação de 5 mil vídeos sobre finanças para aprofundar o conhecimento. |
 
-#### Canais e Vídeos de Referência Integrados:
-* **Canais do YouTube:**
+#### Canais e Vídeos de Referência Integrados na Base do NotebookLM:
+* **Canais de Finanças do YouTube:**
   * [@GustavocerbasiBr](https://www.youtube.com/@GustavocerbasiBr)
   * [@MePoupe](https://www.youtube.com/@MePoupe)
   * [@primorico](https://www.youtube.com/@primorico)
   * [@jovensdenegocios](https://www.youtube.com/@jovensdenegocios)
   * [@brunoperini](https://www.youtube.com/@brunoperini)
-* **Vídeos específicos para consulta:**
-  * [Vídeo Referência 1](https://www.youtube.com/watch?v=RHblgzezekU)
-  * [Vídeo Referência 2](https://www.youtube.com/watch?v=4_ULQHN2dLg)
-  * [Vídeo Referência 3](https://www.youtube.com/watch?v=SHRoWWR4fPY)
-  * [Vídeo Referência 4](https://www.youtube.com/watch?v=a5_xFbPTJD4)
+* **Vídeos Audiobooks específicos para consulta:**
+  * [Vídeo Audiobook 1](https://www.youtube.com/watch?v=RHblgzezekU)
+  * [Vídeo Audiobook 2](https://www.youtube.com/watch?v=4_ULQHN2dLg)
+  * [Vídeo Audiobook 3](https://www.youtube.com/watch?v=SHRoWWR4fPY)
+  * [Vídeo Audiobook 4](https://www.youtube.com/watch?v=a5_xFbPTJD4)
 
 ### 2. Dados Utilizados Localmente
 Para testar a inteligência do Fince, utilizamos uma massa de dados fictícios locais:
