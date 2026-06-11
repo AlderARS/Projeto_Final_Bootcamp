@@ -28,7 +28,7 @@ A dificuldade de gerenciar finanças pessoais diariamente e a falta de educaçã
 ### A Solução
 - **Criação e Atualização Automatizada de Planilhas:** O Fince cria automaticamente uma planilha local para cada novo usuário. Ao longo do tempo, atualiza esses dados com base nas mensagens enviadas (ex: *"gastei 50 reais com Uber"*).
 - **Categorização Inteligente:** Ao registrar novas despesas e receitas, o Fince deve classificar automaticamente as transações sempre que receber novos dados.
-- **Onboarding Guiado (Primeiro Acesso):** Em vez de exigir o preenchimento de planilhas complexas, o Fince guia o usuário na criação do seu primeiro orçamento fazendo **5 perguntas-chave**:
+- **Onboarding Guiado (Primeiro Acesso):** Em vez de exigir o preenchimento de planilhas complexas, o Fince guia o usuário na criação do seu primeiro orçamento fazendo **5 perguntas-chave** (mas ele deverá perguntar antes se o usuário já tem uma tabela de controle financeiro ou se deseja criar uma):
   1. Fontes de renda.
   2. Despesas fixas.
   3. Despesas variáveis (de forma geral).
