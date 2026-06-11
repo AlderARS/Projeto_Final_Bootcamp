@@ -6,7 +6,8 @@ O **Fince** é um agente de Inteligência Artificial integrado ao WhatsApp e N8N
 
 ## 📌 Visão Geral da Arquitetura
 
-O fluxo de dados do Fince conecta a planilha de finanças pessoais armazenada na nuvem ao usuário final através do processamento da IA:
+O fluxo de dados do Fince conecta a planilha de armazenamento local ao usuário final através do processamento da IA:
+
 ```mermaid
 graph TD
     Planilha[📊 Planilha de Finanças Pessoais <br> Armazenamento Local]
