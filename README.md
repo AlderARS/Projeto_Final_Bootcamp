@@ -27,26 +27,7 @@ A dificuldade de gerenciar finanças pessoais diariamente e a falta de educaçã
 
 ### A Solução
 - **Criação e Atualização Automatizada de Planilhas:** O Fince cria automaticamente uma planilha local para cada novo usuário. Ao longo do tempo, atualiza esses dados com base nas mensagens enviadas (ex: *"gastei 50 reais com Uber"*).
-- **Categorização Inteligente:** Ao registrar novas despesas e receitas, o Fince deve classificar automaticamente as transações em categorias predefinidas:
-  1. **Gastos Essenciais (Fixos e Variáveis):** Vitais para sobrevivência e manutenção da casa.
-     * *Moradia:* Aluguel, condomínio, IPTU, água, luz, gás e internet.
-     * *Alimentação:* Supermercado e feiras básicos.
-     * *Saúde:* Plano de saúde, consultas, exames e farmácia.
-     * *Transporte:* Combustível, transporte público, manutenção de veículo e aplicativos de corrida.
-  2. **Estilo de Vida e Lazer (Variáveis):** Bem-estar e escolhas pessoais.
-     * *Alimentação fora:* Restaurantes, bares, cafés e delivery.
-     * *Lazer:* Cinema, shows, assinaturas de streaming (Netflix, Spotify) e hobbies.
-     * *Vestuário:* Roupas, calçados e acessórios.
-     * *Cuidados Pessoais:* Salão de beleza, barbearia, cosméticos e academia.
-  3. **Compromissos Financeiros:** Obrigações com dívidas e planejamento.
-     * *Dívidas:* Fatura de cartão de crédito, empréstimos e financiamentos.
-     * *Educação:* Mensalidade escolar, faculdade e cursos livres.
-  4. **Futuro e Investimentos:** Construção de patrimônio e segurança.
-     * *Reserva de Emergência:* Dinheiro guardado para imprevistos.
-     * *Investimentos:* Aportes em Renda Fixa, Renda Variável ou Previdência.
-  5. **Categorias Especiais:** Sazonais ou direcionados.
-     * *Doações e Presentes:* Aniversários, datas comemorativas e caridade.
-     * *Viagens:* Passagens, hospedagem e passeios.
+- **Categorização Inteligente:** Ao registrar novas despesas e receitas, o Fince deve classificar automaticamente as transações sempre que receber novos dados.
 - **Onboarding Guiado (Primeiro Acesso):** Em vez de exigir o preenchimento de planilhas complexas, o Fince guia o usuário na criação do seu primeiro orçamento fazendo **5 perguntas-chave**:
   1. Fontes de renda.
   2. Despesas fixas.
