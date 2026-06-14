@@ -10,7 +10,7 @@ O fluxo de dados do Fince conecta a planilha de armazenamento local ao usuário 
 
 ```mermaid
 graph TD
-    Planilha[📊 Planilha de Finanças Pessoais <br> Armazenamento Local]
+    Planilha[📊 Planilha de Finanças Pessoais <br> Armazenamento Local do Gemini]
     Agente[🤖 Agente de I.A - Fince <br> Gemini Flash]
     Usuario[👤 Usuário]
 
