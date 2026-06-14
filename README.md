@@ -1,6 +1,6 @@
 # 🪙 Fince - Agente de Finanças Pessoais Inteligente
 
-O **Fince** é um agente de Inteligência Artificial integrado ao Telegram com N8N, projetado para ajudar usuários a gerenciarem suas finanças pessoais de forma prática, direta e educativa. Ele automatiza o controle de gastos diários usando planilhas e atua como um mentor financeiro atencioso.
+O **Fince** é um agente de Inteligência Artificial, projetado para ajudar usuários a gerenciarem suas finanças pessoais de forma prática, direta e educativa. Ele automatiza o controle de gastos diários usando planilhas e atua como um mentor financeiro atencioso.
 
 ---
 
@@ -12,7 +12,7 @@ O fluxo de dados do Fince conecta a planilha de armazenamento local ao usuário 
 graph TD
     Planilha[📊 Planilha de Finanças Pessoais <br> Armazenamento Local]
     Agente[🤖 Agente de I.A - Fince <br> Gemini Flash]
-    Usuario[👤 Usuário <br> WhatsApp]
+    Usuario[👤 Usuário]
 
     Planilha <-->|Leitura e Escrita de Dados| Agente
     Agente <-->|Interação em Linguagem Natural| Usuario
@@ -28,7 +28,7 @@ A dificuldade de gerenciar finanças pessoais diariamente e a falta de educaçã
 ### A Solução
 - **Criação e Atualização Automatizada de Planilhas:** O Fince pede uma planilha de finanças ou cria automaticamente uma planilha local para cada novo usuário e a deixa salva em sua memória. Ao longo do tempo, atualiza esses dados com base nas mensagens enviadas (ex: *"gastei 50 reais com Uber"*).
 - **Categorização Inteligente:** Ao registrar novas despesas e receitas, o Fince deve classificar automaticamente as transações sempre que receber novos dados (não deixa nenhuma coluna da tabela de finanças do usuário em branco).
-- **Onboarding Guiado (Primeiro Acesso):** Para o ccaso de precisar criar uma nova planilha de finanças o Fince em vez de exigir o preenchimento de planilhas complexas, o Fince guia o usuário na criação do seu primeiro orçamento fazendo **5 perguntas-chave** (mas ele deverá perguntar antes se o usuário já tem uma tabela de controle financeiro ou se deseja criar uma):
+- **Onboarding Guiado (Primeiro Acesso):** Para o caso de precisar criar uma nova planilha de finanças o Fince, em vez de exigir o preenchimento de planilhas complexas, guia o usuário na criação do seu primeiro orçamento fazendo **5 perguntas-chave** (mas ele deverá perguntar antes se o usuário já tem uma tabela de controle financeiro ou se deseja criar uma):
   1. Fontes de renda.
   2. Despesas fixas.
   3. Despesas variáveis (de forma geral).
@@ -76,9 +76,9 @@ Para manter a consistência e permitir que o Fince processe os dados de forma pr
 
 | Componente | Tecnologia | Função |
 | :--- | :--- | :--- |
-| **Interface** | Gemini API / Telegram | Canal de comunicação com o usuário final |
+| **Interface** | Gemini | Canal de comunicação com o usuário final |
 | **LLM (Modelo)** | Gemini Flash | Processamento de linguagem natural e geração de respostas |
-| **Base de Dados** | Armazenamento Local (Excel / CSV) | Armazenamento estruturado e histórico financeiro de cada usuário |
+| **Base de Dados** | Armazenamento Local do Gemini (Excel / CSV) | Armazenamento estruturado e histórico financeiro de cada usuário |
 
 ---
 
