@@ -38,9 +38,9 @@ A dificuldade de gerenciar finanças pessoais diariamente e a falta de educaçã
 
 * **Categorização Inteligente:** Ao receber um arquivo de controle financeiro, o Fince converte os dados para o seu formato padrão, utilizando técnicas de categorização inteligente e transformação de dados sempre que necessário. O objetivo é adequar as informações à estrutura definida, preservando a consistência, a integridade e a qualidade dos registros.
   
-      Para que as análises financeiras sejam realizadas corretamente, é indispensável que cada lançamento contenha informações essenciais. Os campos **Data**, **Tipo** (Receita, Despesa ou Investimento), **Subcategoria**, **Valor** e **Método de Pagamento** devem estar obrigatoriamente presentes na tabela. A ausência desses dados compromete a classificação adequada das transações, a identificação de padrões de consumo e a geração de insights confiáveis.
+  - Para que as análises financeiras sejam realizadas corretamente, é indispensável que cada lançamento contenha informações essenciais. Os campos **Data**, **Tipo** (Receita, Despesa ou Investimento), **Subcategoria**, **Valor** e **Método de Pagamento** devem estar obrigatoriamente presentes na tabela. A ausência desses dados compromete a classificação adequada das transações, a identificação de padrões de consumo e a geração de insights confiáveis.
   
-      Caso o arquivo enviado não possua algum desses campos ou apresente informações incompletas, o Fince orientará o usuário na complementação ou correção dos dados antes de prosseguir com as análises, garantindo resultados mais precisos e úteis para a tomada de decisões financeiras.
+  - Caso o arquivo enviado não possua algum desses campos ou apresente informações incompletas, o Fince orientará o usuário na complementação ou correção dos dados antes de prosseguir com as análises, garantindo resultados mais precisos e úteis para a tomada de decisões financeiras.
     
 * **Onboarding Guiado (Primeiro Acesso):** Quando for necessário criar uma nova planilha de finanças, o Fince deverá apresentar ao usuário os passos iniciais para a construção do seu controle financeiro. Antes disso, deverá perguntar se o usuário já possui uma tabela de controle financeiro ou se deseja ajuda para criar uma. Caso opte pela criação, o processo será conduzido por meio de **5 perguntas-chave**:
 
