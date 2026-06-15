@@ -98,7 +98,8 @@ Para manter a consistência e permitir que o Fince processe os dados de forma pr
 | :--- | :--- | :--- |
 | **Interface** | Gemini | Canal de comunicação com o usuário final |
 | **LLM (Modelo)** | Gemini Flash | Processamento de linguagem natural e geração de respostas |
-| **Base de Dados** | Armazenamento Local do Gemini (Excel / CSV) | Armazenamento estruturado e histórico financeiro de cada usuário |
+| **Base de Dados para analise** | Armazenamento Local do usuário (Excel / CSV) | Armazenamento estruturado e histórico financeiro do usuário |
+| **Base de conhecimento** | Integração com NotebookLM | Conhecimento retirado de alguns canais oficiais dos maiores nomes de finanças e economia do Brasil e livros |
 
 ---
 
