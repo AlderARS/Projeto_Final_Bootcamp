@@ -3,20 +3,27 @@
 O **Fince** é um agente de Inteligência Artificial, projetado para ajudar usuários a gerenciarem suas finanças pessoais de forma prática, direta e educativa. Ele automatiza o controle de gastos diários usando planilhas e atua como um mentor financeiro atencioso.
 
 ---
-
 ## 📌 Visão Geral da Arquitetura
 
-O fluxo de dados do Fince conecta a planilha de armazenamento local ao usuário final através do processamento da IA:
+O Fince atua como uma ponte entre o usuário, os documentos financeiros enviados e a sua base especializada de conhecimento. A partir das interações em linguagem natural, ele interpreta solicitações, analisa arquivos financeiros e consulta o NotebookLM para fornecer respostas confiáveis e contextualizadas sobre educação financeira.
 
 ```mermaid
 graph TD
-    Planilha[📊 Planilha de Finanças Pessoais <br> Armazenamento Local do Gemini]
-    Agente[🤖 Agente de I.A - Fince <br> Gemini Flash]
     Usuario[👤 Usuário]
+    Agente[🤖 Agente de I.A. - Fince <br> Gemini Flash]
+    Arquivos[📊 Arquivos Financeiros <br> Excel / CSV enviados pelo usuário]
+    NotebookLM[📚 Base de Conhecimento <br> NotebookLM]
 
-    Planilha <-->|Leitura e Escrita de Dados| Agente
-    Agente <-->|Interação em Linguagem Natural| Usuario
+    Usuario <-->|Conversa em linguagem natural| Agente
+    Arquivos <-->|Análise e processamento de dados| Agente
+    Agente <-->|Consultas e recuperação de conhecimento| NotebookLM
 ```
+
+### Responsabilidades do Fince
+
+* 💬 **Interação Conversacional:** Mantém um diálogo natural e contínuo com o usuário, oferecendo suporte, esclarecendo dúvidas e guiando suas ações relacionadas às finanças pessoais.
+* 📊 **Análise de Arquivos Financeiros:** Recebe planilhas e arquivos enviados pelo usuário, interpreta os dados, identifica padrões, organiza informações e apresenta análises e insights financeiros.
+* 📚 **Consulta à Base de Conhecimento:** Utiliza exclusivamente o NotebookLM como fonte de conhecimento para responder perguntas sobre educação financeira, conceitos econômicos e conteúdos especializados.
 
 ---
 
