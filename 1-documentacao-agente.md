@@ -9,30 +9,20 @@ O Fince atua como uma ponte entre o usuário, os documentos financeiros enviados
 
 ```mermaid
 graph LR
+    U["👤 Usuário"] --> T["📱 Telegram"]
+    T --> N["⚙️ n8n"]
 
-    U["👤 Usuário<br/>Telegram"] --> TG["📨 Telegram Bot API"]
-    TG --> N8N["⚙️ n8n Workflow"]
+    N --> D{"Entrada"}
 
-    N8N --> F{"🔀 Tipo de entrada"}
+    D -->|"💬 Mensagem"| F["🤖 Fince"]
+    F --> G["✨ Google Gemini"]
+    G --> T
 
-    %% Conversas
-    F -->|"💬 Mensagem de texto"| A["🤖 Agente Fince"]
-    A --> M["🧠 Memória da Conversa"]
-    A --> G["✨ Google Gemini"]
-    G --> A
-    A --> R1["📤 Resposta Financeira"]
-    R1 --> TG
+    D -->|"📊 CSV"| C["📄 Processar CSV"]
+    C --> G
+    G --> T
 
-    %% Arquivos CSV
-    F -->|"📊 Arquivo CSV"| D["📥 Download do arquivo"]
-    D --> E["📄 Extração dos dados CSV"]
-    E --> T["🔧 Padronização e formatação"]
-    T --> G2["✨ Google Gemini"]
-    G2 --> AN["📈 Análise Financeira"]
-    AN --> S["✂️ Divisão de mensagens longas"]
-    S --> TG
-
-    TG --> U
+    T --> U
 ```
 
 ### Responsabilidades do Fince
