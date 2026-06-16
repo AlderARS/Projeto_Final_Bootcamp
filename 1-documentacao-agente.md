@@ -20,7 +20,6 @@ graph LR
 
     D -->|"📊 CSV"| C["📄 Processar CSV"]
     C --> G
-    G --> T
 
     T --> U
 ```
