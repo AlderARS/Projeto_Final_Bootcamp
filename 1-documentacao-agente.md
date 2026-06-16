@@ -1,7 +1,6 @@
 # 🪙 Fince - Agente de Finanças Pessoais Inteligente
 
-O **Fince** é um agente de Inteligência Artificial, projetado para ajudar usuários a gerenciarem suas finanças pessoais de forma prática, direta e educativa. Ele automatiza o controle de gastos diários usando planilhas e atua como um mentor financeiro atencioso.
-  * [@FinceAgent_Bot](https://web.telegram.org/a/#8993472378)
+O **Fince** é um agente de Inteligência Artificial, projetado para ajudar usuários a gerenciarem suas finanças pessoais de forma prática, direta e educativa. Ele automatiza o controle de gastos diários usando planilhas e atua como um mentor financeiro atencioso. [@FinceAgent_Bot](https://web.telegram.org/a/#8993472378)
 
 ---
 ## 📌 Visão Geral da Arquitetura
