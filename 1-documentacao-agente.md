@@ -12,15 +12,18 @@ graph LR
     U["👤 Usuário"] --> T["📱 Telegram"]
     T --> N["⚙️ n8n"]
 
-    N --> D{"Entrada"}
+    N --> S{"Tipo de entrada"}
 
-    D -->|"💬 Mensagem"| F["🤖 Fince"]
-    F --> G["✨ Google Gemini"]
-    G --> T
+    S -->|"💬 Texto"| A["🤖 AI Agent<br/>(Google Gemini)"]
 
-    D -->|"📊 CSV"| C["📄 Processar CSV"]
-    C --> G
+    S -->|"📊 CSV"| C["📄 Extrair CSV"]
+    C --> A
 
+    S -->|"💬 + 📊 Texto + CSV"| M["📄 Extrair CSV<br/>+ Combinar com a mensagem"]
+    M --> A
+
+    A --> R["✉️ Enviar resposta"]
+    R --> T
     T --> U
 ```
 
