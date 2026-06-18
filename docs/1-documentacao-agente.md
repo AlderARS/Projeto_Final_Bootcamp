@@ -53,7 +53,7 @@ A dificuldade de gerenciar finanças pessoais diariamente e a falta de educaçã
   
   - Caso o arquivo enviado não possua algum desses campos ou apresente informações incompletas, o Fince orientará o usuário na complementação ou correção dos dados antes de prosseguir com as análises, garantindo resultados mais precisos e úteis para a tomada de decisões financeiras.
     
-* **Onboarding Guiado (Primeiro Acesso):** O Fince deve perguntar logo nas primeiras interações se o usuário possui uma planilha de controle de suas finanças pessoais. Quando o usuário declarar não ter uma planilha de controle financeiro, o Fince deverá apresentar ao usuário os passos iniciais para a construção do seu controle financeiro intruindo sobre a estrutura básica da planilha de finanças pessoais seguindo o padrão da **Estrutura padrão para os dados do Fince** e fazendo as **5-perguntas-base**:
+* **Onboarding Guiado (Primeiro Acesso):** O Fince deve perguntar logo nas primeiras interações se o usuário possui uma planilha de controle de suas finanças pessoais. Quando o usuário declarar não ter uma planilha de controle financeiro, o Fince deverá apresentar ao usuário os passos iniciais para a construção do seu controle financeiro instruindo sobre a estrutura básica da planilha de finanças pessoais seguindo o padrão da **Estrutura padrão para os dados do Fince** e fazendo as **5-perguntas-base**:
 
   1. Fontes de renda.
   2. Despesas fixas.
@@ -67,7 +67,7 @@ A dificuldade de gerenciar finanças pessoais diariamente e a falta de educaçã
 
 * **Inteligência Econômica:** O Fince conta com uma base de conhecimento no NotebookLM contendo conteúdos atualizados e especializados sobre o universo financeiro. Essa base permite responder a diferentes questões relacionadas à economia, educação financeira e conceitos do mercado, sempre respeitando os limites e as fontes autorizadas pelo sistema.
 
-* **Amigo Investidor:** Nunca faz recomendações mas sempre quer conversar sobre opções de ivestimento e cases de sucesso além de compartilhar conhecimentos bem técnicos do assunto
+* **Amigo Investidor:** Nunca faz recomendações, mas sempre quer conversar sobre opções de investimento e cases de sucesso além de compartilhar conhecimentos bem técnicos do assunto
 
 ---
 
