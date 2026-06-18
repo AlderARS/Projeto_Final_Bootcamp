@@ -1,0 +1,1001 @@
+Data;Tipo;Categoria;Subcategoria;Descrição;Valor;Método de Pagamento
+03/06/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/06/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;114,24;Cartão de Crédito
+06/06/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;485,00;Pix
+09/06/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;335,65;Cartão de Crédito
+12/06/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+09/06/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;145,20;Débito
+11/06/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;79,69;Débito
+13/06/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;183,60;Débito
+15/06/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Restaurante Outback;124,12;Cartão de Crédito
+17/06/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;124,70;Cartão de Crédito
+14/06/2025;Despesa;Estilo de Vida e Lazer;Vestuário;Loja Renner;94,40;Cartão de Crédito
+17/06/2025;Despesa;Gastos Essenciais;Transporte;Uber trabalho;23,28;Pix
+20/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;53,66;Cartão de Crédito
+21/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,15;Cartão de Crédito
+24/06/2025;Despesa;Gastos Essenciais;Alimentação;Padaria Central;15,09;Dinheiro
+23/06/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;445,50;Boleto
+26/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Cinema com amigos;45,00;Cartão de Crédito
+28/06/2025;Receita;Receita;Renda Extra;Projeto Freelance;656,50;Pix
+28/06/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;42,94;Débito
+04/07/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;87,86;Débito
+03/07/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/07/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;124,95;Cartão de Crédito
+06/07/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;475,00;Pix
+09/07/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;283,30;Cartão de Crédito
+12/07/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+09/07/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;157,58;Débito
+11/07/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;64,75;Débito
+14/07/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Pizzaria Bate Papo;75,00;Cartão de Crédito
+16/07/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;121,10;Cartão de Crédito
+19/07/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;193,80;Débito
+18/07/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,58;Cartão de Crédito
+19/07/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,90;Cartão de Crédito
+23/07/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;47,25;Dinheiro
+26/07/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;361,00;Boleto
+28/07/2025;Despesa;Gastos Essenciais;Saúde;Consulta Odontológica;144,00;Pix
+28/07/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;58,20;Dinheiro
+01/08/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;117,60;Débito
+05/08/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/08/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;119,00;Cartão de Crédito
+08/08/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;505,00;Pix
+07/08/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;94,25;Débito
+09/08/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/08/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;161,51;Débito
+14/08/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;74,76;Débito
+16/08/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Cafeteria Starbucks;21,38;Cartão de Crédito
+13/08/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;115,10;Cartão de Crédito
+17/08/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;179,45;Débito
+20/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,78;Cartão de Crédito
+21/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,65;Cartão de Crédito
+24/08/2025;Despesa;Compromissos Financeiros;Educação;Curso de Inglês;180,00;Boleto
+23/08/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;525,20;Boleto
+27/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,02;Cartão de Crédito
+28/08/2025;Receita;Receita;Renda Extra;Projeto Freelance;824,00;Pix
+02/09/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;322,40;Cartão de Crédito
+07/09/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/09/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;113,05;Cartão de Crédito
+05/09/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;480,00;Pix
+10/09/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/09/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;137,69;Débito
+14/09/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;67,32;Débito
+12/09/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Delivery iFood;64,90;Cartão de Crédito
+14/09/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;121,10;Cartão de Crédito
+17/09/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;183,60;Débito
+21/09/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,58;Cartão de Crédito
+22/09/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,90;Cartão de Crédito
+20/09/2025;Despesa;Estilo de Vida e Lazer;Vestuário;Zattini Calçados;157,40;Cartão de Crédito
+24/09/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;294,50;Boleto
+28/09/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;34,18;Dinheiro
+28/09/2025;Despesa;Categorias Especiais;Doações e Presentes;Presente de Aniversário;116,40;Pix
+05/10/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;53,90;Dinheiro
+03/10/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/10/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;119,00;Cartão de Crédito
+06/10/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;505,00;Pix
+09/10/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;285,60;Cartão de Crédito
+12/10/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/10/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;137,38;Débito
+12/10/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;76,02;Débito
+15/10/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;113,90;Cartão de Crédito
+18/10/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;187,20;Débito
+22/10/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,22;Cartão de Crédito
+18/10/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,40;Cartão de Crédito
+21/10/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;44,55;Dinheiro
+25/10/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;680,00;Boleto
+28/10/2025;Despesa;Gastos Essenciais;Saúde;Plano de Saúde;282,80;Boleto
+28/10/2025;Receita;Receita;Renda Extra;Projeto Freelance;408,00;Pix
+01/11/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;100,94;Débito
+04/11/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+05/11/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;124,95;Cartão de Crédito
+07/11/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;475,00;Pix
+10/11/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;312,38;Cartão de Crédito
+08/11/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+11/11/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;142,98;Débito
+13/11/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;68,41;Débito
+16/11/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;119,90;Cartão de Crédito
+20/11/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;191,90;Débito
+18/11/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,02;Cartão de Crédito
+19/11/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,65;Cartão de Crédito
+22/11/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Restaurante Outback;150,80;Cartão de Crédito
+26/11/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;430,50;Boleto
+28/11/2025;Despesa;Compromissos Financeiros;Educação;Livros Técnicos;85,40;Cartão de Crédito
+28/11/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;55,87;Débito
+02/12/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;67,90;Dinheiro
+05/12/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/12/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;117,81;Cartão de Crédito
+08/12/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;500,00;Pix
+06/12/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;416,12;Cartão de Crédito
+09/12/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/12/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;177,16;Débito
+14/12/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;88,71;Débito
+17/12/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;125,90;Cartão de Crédito
+16/12/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;175,75;Débito
+19/12/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;53,66;Cartão de Crédito
+20/12/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,15;Cartão de Crédito
+23/12/2025;Despesa;Categorias Especiais;Doações e Presentes;Presentes de Natal;343,00;Cartão de Crédito
+27/12/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;772,20;Boleto
+26/12/2025;Despesa;Categorias Especiais;Viagens;Hospedagem Airbnb;450,00;Cartão de Crédito
+28/12/2025;Receita;Receita;Renda Extra;Projeto Freelance;505,00;Pix
+03/01/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;112,20;Débito
+06/01/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+07/01/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;123,76;Cartão de Crédito
+04/01/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;525,00;Pix
+07/01/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;261,72;Cartão de Crédito
+10/01/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+13/01/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;153,45;Débito
+15/01/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;69,97;Débito
+13/01/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;118,70;Cartão de Crédito
+16/01/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;190,00;Débito
+20/01/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;56,46;Cartão de Crédito
+21/01/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,40;Cartão de Crédito
+25/01/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Cafeteria Starbucks;19,47;Débito
+23/01/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;364,00;Boleto
+27/01/2026;Despesa;Gastos Essenciais;Saúde;Exame de Sangue;94,50;Pix
+28/01/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;47,50;Dinheiro
+03/02/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;302,40;Cartão de Crédito
+07/02/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/02/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;116,62;Cartão de Crédito
+05/02/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;495,00;Pix
+10/02/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/02/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;143,52;Débito
+14/02/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;65,48;Débito
+12/02/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Pizzaria Bate Papo;82,40;Cartão de Crédito
+14/02/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;124,70;Cartão de Crédito
+17/02/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;189,00;Débito
+21/02/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;53,10;Cartão de Crédito
+22/02/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;23,90;Cartão de Crédito
+20/02/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;43,65;Dinheiro
+24/02/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;411,60;Boleto
+28/02/2026;Despesa;Compromissos Financeiros;Educação;Mensalidade Faculdade;346,50;Boleto
+03/03/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;95,00;Débito
+07/03/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/03/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;121,38;Cartão de Crédito
+05/03/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;515,00;Pix
+09/03/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;343,62;Cartão de Crédito
+11/03/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+14/03/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;132,52;Débito
+11/03/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;67,30;Débito
+14/03/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;116,30;Cartão de Crédito
+18/03/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;191,10;Débito
+21/03/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;55,34;Cartão de Crédito
+22/03/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,90;Cartão de Crédito
+21/03/2026;Despesa;Estilo de Vida e Lazer;Vestuário;Decathlon Esportes;190,89;Cartão de Crédito
+24/03/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;601,80;Boleto
+28/03/2026;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;49,96;Débito
+28/03/2026;Receita;Receita;Renda Extra;Projeto Freelance;728,00;Pix
+04/04/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;68,25;Dinheiro
+03/04/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/04/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;114,24;Cartão de Crédito
+06/04/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;485,00;Pix
+09/04/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;284,20;Cartão de Crédito
+12/04/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/04/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;148,00;Débito
+12/04/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;67,97;Débito
+15/04/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;122,30;Cartão de Crédito
+18/04/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;190,55;Débito
+22/04/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;58,14;Cartão de Crédito
+18/04/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;26,14;Cartão de Crédito
+21/04/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Delivery iFood;52,25;Cartão de Crédito
+25/04/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;297,60;Boleto
+28/04/2026;Despesa;Compromissos Financeiros;Educação;Curso de Inglês;174,60;Boleto
+28/04/2026;Despesa;Categorias Especiais;Doações e Presentes;Doação Instituição;49,00;Pix
+01/05/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;88,11;Débito
+04/05/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+05/05/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;120,19;Cartão de Crédito
+07/05/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;510,00;Pix
+10/05/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;350,20;Cartão de Crédito
+08/05/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+11/05/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;160,02;Débito
+13/05/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;71,06;Débito
+16/05/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;115,10;Cartão de Crédito
+20/05/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;184,30;Débito
+18/05/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,78;Cartão de Crédito
+19/05/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,65;Cartão de Crédito
+22/05/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;45,00;Dinheiro
+26/05/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;484,80;Boleto
+28/05/2026;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;37,84;Débito
+28/05/2026;Receita;Receita;Renda Extra;Projeto Freelance;566,50;Pix
+01/06/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;60,32;Dinheiro
+05/06/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/06/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;113,05;Cartão de Crédito
+08/06/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;480,00;Pix
+06/06/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;295,85;Cartão de Crédito
+09/06/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/06/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;138,60;Débito Automático
+12/06/2026;Despesa;Estilo de Vida e Lazer;Lazer;Cinema com amigos;45,00;Cartão de Crédito
+13/06/2026;Investimento;Futuro e Investimentos;Reserva de Emergência;Aporte Poupança/CDB;505,00;Pix
+03/06/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/06/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;122,57;Cartão de Crédito
+06/06/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;520,00;Pix
+09/06/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;359,62;Cartão de Crédito
+12/06/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+09/06/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;139,39;Débito
+11/06/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;76,53;Débito
+13/06/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;176,40;Débito
+15/06/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Restaurante Outback;119,30;Cartão de Crédito
+17/06/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;119,90;Cartão de Crédito
+14/06/2025;Despesa;Estilo de Vida e Lazer;Vestuário;Loja Renner;90,80;Cartão de Crédito
+17/06/2025;Despesa;Gastos Essenciais;Transporte;Uber trabalho;24,99;Pix
+20/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,58;Cartão de Crédito
+21/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,90;Cartão de Crédito
+24/06/2025;Despesa;Gastos Essenciais;Alimentação;Padaria Central;16,17;Dinheiro
+23/06/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;427,50;Boleto
+26/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Cinema com amigos;43,20;Cartão de Crédito
+28/06/2025;Receita;Receita;Renda Extra;Projeto Freelance;630,50;Pix
+28/06/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;41,26;Débito
+04/07/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;84,45;Débito
+03/07/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/07/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;120,19;Cartão de Crédito
+06/07/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;510,00;Pix
+09/07/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;303,95;Cartão de Crédito
+12/07/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+09/07/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;168,84;Débito
+11/07/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;62,13;Débito
+14/07/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Pizzaria Bate Papo;72,00;Cartão de Crédito
+16/07/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;116,30;Cartão de Crédito
+19/07/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;186,20;Débito
+18/07/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;55,34;Cartão de Crédito
+19/07/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,90;Cartão de Crédito
+23/07/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;45,45;Dinheiro
+26/07/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;387,60;Boleto
+28/07/2025;Despesa;Gastos Essenciais;Saúde;Consulta Odontológica;154,50;Pix
+28/07/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;62,40;Dinheiro
+01/08/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;126,00;Débito
+05/08/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/08/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;114,24;Cartão de Crédito
+08/08/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;485,00;Pix
+07/08/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;90,55;Débito
+09/08/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/08/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;155,30;Débito
+14/08/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;71,91;Débito
+16/08/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Cafeteria Starbucks;22,95;Cartão de Crédito
+13/08/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;123,50;Cartão de Crédito
+17/08/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;192,40;Débito
+20/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;58,70;Cartão de Crédito
+21/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;23,65;Cartão de Crédito
+24/08/2025;Despesa;Compromissos Financeiros;Educação;Curso de Inglês;172,80;Boleto
+23/08/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;504,40;Boleto
+27/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,78;Cartão de Crédito
+28/08/2025;Receita;Receita;Renda Extra;Projeto Freelance;792,00;Pix
+02/09/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;310,00;Cartão de Crédito
+07/09/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/09/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;121,38;Cartão de Crédito
+05/09/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;515,00;Pix
+10/09/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/09/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;147,52;Débito
+14/09/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;64,60;Débito
+12/09/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Delivery iFood;62,30;Cartão de Crédito
+14/09/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;116,30;Cartão de Crédito
+17/09/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;176,40;Débito
+21/09/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;55,34;Cartão de Crédito
+22/09/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,90;Cartão de Crédito
+20/09/2025;Despesa;Estilo de Vida e Lazer;Vestuário;Zattini Calçados;151,40;Cartão de Crédito
+24/09/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;316,20;Boleto
+28/09/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;36,67;Dinheiro
+28/09/2025;Despesa;Categorias Especiais;Doações e Presentes;Presente de Aniversário;124,80;Pix
+05/10/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;57,75;Dinheiro
+03/10/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/10/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;114,24;Cartão de Crédito
+06/10/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;485,00;Pix
+09/10/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;274,40;Cartão de Crédito
+12/10/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/10/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;132,10;Débito
+12/10/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;73,12;Débito
+15/10/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;122,30;Cartão de Crédito
+18/10/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;200,85;Débito
+22/10/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;58,14;Cartão de Crédito
+18/10/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;26,14;Cartão de Crédito
+21/10/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;42,75;Dinheiro
+25/10/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;652,80;Boleto
+28/10/2025;Despesa;Gastos Essenciais;Saúde;Plano de Saúde;271,60;Boleto
+28/10/2025;Receita;Receita;Renda Extra;Projeto Freelance;392,00;Pix
+01/11/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;97,02;Débito
+04/11/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+05/11/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;120,19;Cartão de Crédito
+07/11/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;510,00;Pix
+10/11/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;335,16;Cartão de Crédito
+08/11/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+11/11/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;153,20;Débito
+13/11/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;65,64;Débito
+16/11/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;115,10;Cartão de Crédito
+20/11/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;184,30;Débito
+18/11/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,78;Cartão de Crédito
+19/11/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,65;Cartão de Crédito
+22/11/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Restaurante Outback;145,00;Cartão de Crédito
+26/11/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;414,10;Boleto
+28/11/2025;Despesa;Compromissos Financeiros;Educação;Livros Técnicos;91,70;Cartão de Crédito
+28/11/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;59,95;Débito
+02/12/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;72,80;Dinheiro
+05/12/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/12/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;113,05;Cartão de Crédito
+08/12/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;480,00;Pix
+06/12/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;399,64;Cartão de Crédito
+09/12/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/12/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;170,28;Débito
+14/12/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;85,30;Débito
+17/12/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;121,10;Cartão de Crédito
+16/12/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;188,70;Débito
+19/12/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,58;Cartão de Crédito
+20/12/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,90;Cartão de Crédito
+23/12/2025;Despesa;Categorias Especiais;Doações e Presentes;Presentes de Natal;367,50;Cartão de Crédito
+27/12/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;741,00;Boleto
+26/12/2025;Despesa;Categorias Especiais;Viagens;Hospedagem Airbnb;432,00;Cartão de Crédito
+28/12/2025;Receita;Receita;Renda Extra;Projeto Freelance;485,00;Pix
+03/01/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;107,80;Débito
+06/01/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+07/01/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;119,00;Cartão de Crédito
+04/01/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;505,00;Pix
+07/01/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;281,01;Cartão de Crédito
+10/01/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+13/01/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;164,53;Débito
+15/01/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;74,97;Débito
+13/01/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;113,90;Cartão de Crédito
+16/01/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;182,40;Débito
+20/01/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,22;Cartão de Crédito
+21/01/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,40;Cartão de Crédito
+25/01/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Cafeteria Starbucks;18,71;Débito
+23/01/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;350,00;Boleto
+27/01/2026;Despesa;Gastos Essenciais;Saúde;Exame de Sangue;90,90;Pix
+28/01/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;51,00;Dinheiro
+03/02/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;324,45;Cartão de Crédito
+07/02/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/02/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;124,95;Cartão de Crédito
+05/02/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;475,00;Pix
+10/02/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/02/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;137,84;Débito
+14/02/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;62,92;Débito
+12/02/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Pizzaria Bate Papo;79,20;Cartão de Crédito
+14/02/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;119,90;Cartão de Crédito
+17/02/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;181,80;Débito
+21/02/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,02;Cartão de Crédito
+22/02/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,65;Cartão de Crédito
+20/02/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;46,80;Dinheiro
+24/02/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;441,00;Boleto
+28/02/2026;Despesa;Compromissos Financeiros;Educação;Mensalidade Faculdade;332,50;Boleto
+03/03/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;91,20;Débito
+07/03/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/03/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;116,62;Cartão de Crédito
+05/03/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;495,00;Pix
+09/03/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;330,40;Cartão de Crédito
+11/03/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+14/03/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;142,29;Débito
+11/03/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;72,20;Débito
+14/03/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;124,70;Cartão de Crédito
+18/03/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;204,75;Débito
+21/03/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;53,10;Cartão de Crédito
+22/03/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;23,90;Cartão de Crédito
+21/03/2026;Despesa;Estilo de Vida e Lazer;Vestuário;Decathlon Esportes;183,33;Cartão de Crédito
+24/03/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;578,20;Boleto
+28/03/2026;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;48,02;Débito
+28/03/2026;Receita;Receita;Renda Extra;Projeto Freelance;700,00;Pix
+04/04/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;65,65;Dinheiro
+03/04/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/04/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;122,57;Cartão de Crédito
+06/04/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;520,00;Pix
+09/04/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;304,50;Cartão de Crédito
+12/04/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/04/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;142,08;Débito
+12/04/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;65,28;Débito
+15/04/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;117,50;Cartão de Crédito
+18/04/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;183,15;Débito
+22/04/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;55,90;Cartão de Crédito
+18/04/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,15;Cartão de Crédito
+21/04/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Delivery iFood;56,10;Cartão de Crédito
+25/04/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;319,30;Boleto
+28/04/2026;Despesa;Compromissos Financeiros;Educação;Curso de Inglês;187,20;Boleto
+28/04/2026;Despesa;Categorias Especiais;Doações e Presentes;Doação Instituição;52,50;Pix
+01/05/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;84,55;Débito
+04/05/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+05/05/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;115,43;Cartão de Crédito
+07/05/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;490,00;Pix
+10/05/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;336,60;Cartão de Crédito
+08/05/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+11/05/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;153,92;Débito
+13/05/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;76,30;Débito
+16/05/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;123,50;Cartão de Crédito
+20/05/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;197,60;Débito
+18/05/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;58,70;Cartão de Crédito
+19/05/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;23,65;Cartão de Crédito
+22/05/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;43,20;Dinheiro
+26/05/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;465,60;Boleto
+28/05/2026;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;36,36;Débito
+28/05/2026;Receita;Receita;Renda Extra;Projeto Freelance;544,50;Pix
+01/06/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;58,00;Dinheiro
+05/06/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/06/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;121,38;Cartão de Crédito
+08/06/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;515,00;Pix
+06/06/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;317,20;Cartão de Crédito
+09/06/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/06/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;133,00;Débito Automático
+12/06/2026;Despesa;Estilo de Vida e Lazer;Lazer;Cinema com amigos;43,20;Cartão de Crédito
+13/06/2026;Investimento;Futuro e Investimentos;Reserva de Emergência;Aporte Poupança/CDB;485,00;Pix
+03/06/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/06/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;117,81;Cartão de Crédito
+06/06/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;500,00;Pix
+09/06/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;345,92;Cartão de Crédito
+12/06/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+09/06/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;149,56;Débito
+11/06/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;82,06;Débito
+13/06/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;189,00;Débito
+15/06/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Restaurante Outback;114,48;Cartão de Crédito
+17/06/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;115,10;Cartão de Crédito
+14/06/2025;Despesa;Estilo de Vida e Lazer;Vestuário;Loja Renner;87,20;Cartão de Crédito
+17/06/2025;Despesa;Gastos Essenciais;Transporte;Uber trabalho;24,01;Pix
+20/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;55,34;Cartão de Crédito
+21/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,90;Cartão de Crédito
+24/06/2025;Despesa;Gastos Essenciais;Alimentação;Padaria Central;15,55;Dinheiro
+23/06/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;459,00;Boleto
+26/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Cinema com amigos;46,35;Cartão de Crédito
+28/06/2025;Receita;Receita;Renda Extra;Projeto Freelance;676,00;Pix
+28/06/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;44,21;Débito
+04/07/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;81,04;Débito
+03/07/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/07/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;115,43;Cartão de Crédito
+06/07/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;490,00;Pix
+09/07/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;292,15;Cartão de Crédito
+12/07/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+09/07/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;162,41;Débito
+11/07/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;66,71;Débito
+14/07/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Pizzaria Bate Papo;77,25;Cartão de Crédito
+16/07/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;124,70;Cartão de Crédito
+19/07/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;199,50;Débito
+18/07/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;53,10;Cartão de Crédito
+19/07/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;23,90;Cartão de Crédito
+23/07/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;43,65;Dinheiro
+26/07/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;372,40;Boleto
+28/07/2025;Despesa;Gastos Essenciais;Saúde;Consulta Odontológica;148,50;Pix
+28/07/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;60,00;Dinheiro
+01/08/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;121,20;Débito
+05/08/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/08/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;122,57;Cartão de Crédito
+08/08/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;520,00;Pix
+07/08/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;97,02;Débito
+09/08/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/08/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;149,09;Débito
+14/08/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;69,06;Débito
+16/08/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Cafeteria Starbucks;22,05;Cartão de Crédito
+13/08/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;118,70;Cartão de Crédito
+17/08/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;185,00;Débito
+20/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;56,46;Cartão de Crédito
+21/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,40;Cartão de Crédito
+24/08/2025;Despesa;Compromissos Financeiros;Educação;Curso de Inglês;185,40;Boleto
+23/08/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;540,80;Boleto
+27/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;58,70;Cartão de Crédito
+28/08/2025;Receita;Receita;Renda Extra;Projeto Freelance;760,00;Pix
+02/09/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;297,60;Cartão de Crédito
+07/09/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/09/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;116,62;Cartão de Crédito
+05/09/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;495,00;Pix
+10/09/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/09/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;141,90;Débito
+14/09/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;69,36;Débito
+12/09/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Delivery iFood;66,85;Cartão de Crédito
+14/09/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;124,70;Cartão de Crédito
+17/09/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;189,00;Débito
+21/09/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;53,10;Cartão de Crédito
+22/09/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;23,90;Cartão de Crédito
+20/09/2025;Despesa;Estilo de Vida e Lazer;Vestuário;Zattini Calçados;145,40;Cartão de Crédito
+24/09/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;303,80;Boleto
+28/09/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;35,24;Dinheiro
+28/09/2025;Despesa;Categorias Especiais;Doações e Presentes;Presente de Aniversário;120,00;Pix
+05/10/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;55,55;Dinheiro
+03/10/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/10/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;122,57;Cartão de Crédito
+06/10/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;520,00;Pix
+09/10/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;294,00;Cartão de Crédito
+12/10/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/10/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;126,82;Débito
+12/10/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;70,23;Débito
+15/10/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;117,50;Cartão de Crédito
+18/10/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;193,05;Débito
+22/10/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;55,90;Cartão de Crédito
+18/10/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,15;Cartão de Crédito
+21/10/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;45,90;Dinheiro
+25/10/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;700,40;Boleto
+28/10/2025;Despesa;Gastos Essenciais;Saúde;Plano de Saúde;291,20;Boleto
+28/10/2025;Receita;Receita;Renda Extra;Projeto Freelance;420,00;Pix
+01/11/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;93,10;Débito
+04/11/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+05/11/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;115,43;Cartão de Crédito
+07/11/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;490,00;Pix
+10/11/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;322,15;Cartão de Crédito
+08/11/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+11/11/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;147,36;Débito
+13/11/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;70,48;Débito
+16/11/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;123,50;Cartão de Crédito
+20/11/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;197,60;Débito
+18/11/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;58,70;Cartão de Crédito
+19/11/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;23,65;Cartão de Crédito
+22/11/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Restaurante Outback;139,20;Cartão de Crédito
+26/11/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;397,70;Boleto
+28/11/2025;Despesa;Compromissos Financeiros;Educação;Livros Técnicos;88,10;Cartão de Crédito
+28/11/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;57,62;Débito
+02/12/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;70,00;Dinheiro
+05/12/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/12/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;121,38;Cartão de Crédito
+08/12/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;515,00;Pix
+06/12/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;428,48;Cartão de Crédito
+09/12/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/12/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;163,40;Débito
+14/12/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;81,89;Débito
+17/12/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;116,30;Cartão de Crédito
+16/12/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;181,30;Débito
+19/12/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;55,34;Cartão de Crédito
+20/12/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,90;Cartão de Crédito
+23/12/2025;Despesa;Categorias Especiais;Doações e Presentes;Presentes de Natal;353,50;Cartão de Crédito
+27/12/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;795,60;Boleto
+26/12/2025;Despesa;Categorias Especiais;Viagens;Hospedagem Airbnb;463,50;Cartão de Crédito
+28/12/2025;Receita;Receita;Renda Extra;Projeto Freelance;520,00;Pix
+03/01/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;115,50;Débito
+06/01/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+07/01/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;114,24;Cartão de Crédito
+04/01/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;485,00;Pix
+07/01/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;269,99;Cartão de Crédito
+10/01/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+13/01/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;158,20;Débito
+15/01/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;72,11;Débito
+13/01/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;122,30;Cartão de Crédito
+16/01/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;195,70;Débito
+20/01/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;58,14;Cartão de Crédito
+21/01/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;26,14;Cartão de Crédito
+25/01/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Cafeteria Starbucks;17,95;Débito
+23/01/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;336,00;Boleto
+27/01/2026;Despesa;Gastos Essenciais;Saúde;Exame de Sangue;87,30;Pix
+28/01/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;49,00;Dinheiro
+03/02/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;311,85;Cartão de Crédito
+07/02/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/02/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;120,19;Cartão de Crédito
+05/02/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;510,00;Pix
+10/02/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/02/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;147,78;Débito
+14/02/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;67,41;Débito
+12/02/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Pizzaria Bate Papo;76,00;Cartão de Crédito
+14/02/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;115,10;Cartão de Crédito
+17/02/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;174,60;Débito
+21/02/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,78;Cartão de Crédito
+22/02/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,65;Cartão de Crédito
+20/02/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;45,00;Dinheiro
+24/02/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;424,20;Boleto
+28/02/2026;Despesa;Compromissos Financeiros;Educação;Mensalidade Faculdade;357,00;Boleto
+03/03/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;97,85;Débito
+07/03/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/03/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;124,95;Cartão de Crédito
+05/03/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;475,00;Pix
+09/03/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;317,18;Cartão de Crédito
+11/03/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+14/03/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;136,71;Débito
+11/03/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;69,40;Débito
+14/03/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;119,90;Cartão de Crédito
+18/03/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;196,95;Débito
+21/03/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,02;Cartão de Crédito
+22/03/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,65;Cartão de Crédito
+21/03/2026;Despesa;Estilo de Vida e Lazer;Vestuário;Decathlon Esportes;196,56;Cartão de Crédito
+24/03/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;619,50;Boleto
+28/03/2026;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;46,08;Débito
+28/03/2026;Receita;Receita;Renda Extra;Projeto Freelance;672,00;Pix
+04/04/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;63,05;Dinheiro
+03/04/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/04/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;117,81;Cartão de Crédito
+06/04/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;500,00;Pix
+09/04/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;292,90;Cartão de Crédito
+12/04/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/04/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;152,44;Débito
+12/04/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;69,99;Débito
+15/04/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;125,90;Cartão de Crédito
+18/04/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;175,75;Débito
+22/04/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;53,66;Cartão de Crédito
+18/04/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,15;Cartão de Crédito
+21/04/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Delivery iFood;53,90;Cartão de Crédito
+25/04/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;306,90;Boleto
+28/04/2026;Despesa;Compromissos Financeiros;Educação;Curso de Inglês;180,00;Boleto
+28/04/2026;Despesa;Categorias Especiais;Doações e Presentes;Doação Instituição;50,50;Pix
+01/05/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;90,78;Débito
+04/05/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+05/05/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;123,76;Cartão de Crédito
+07/05/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;525,00;Pix
+10/05/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;323,00;Cartão de Crédito
+08/05/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+11/05/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;147,83;Débito
+13/05/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;73,30;Débito
+16/05/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;118,70;Cartão de Crédito
+20/05/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;190,00;Débito
+18/05/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;56,46;Cartão de Crédito
+19/05/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,40;Cartão de Crédito
+22/05/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;46,35;Dinheiro
+26/05/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;499,20;Boleto
+28/05/2026;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;38,96;Débito
+28/05/2026;Receita;Receita;Renda Extra;Projeto Freelance;522,50;Pix
+01/06/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;55,68;Dinheiro
+05/06/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/06/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;116,62;Cartão de Crédito
+08/06/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;495,00;Pix
+06/06/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;305,00;Cartão de Crédito
+09/06/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/06/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;142,80;Débito Automático
+12/06/2026;Despesa;Estilo de Vida e Lazer;Lazer;Cinema com amigos;46,35;Cartão de Crédito
+13/06/2026;Investimento;Futuro e Investimentos;Reserva de Emergência;Aporte Poupança/CDB;520,00;Pix
+03/06/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/06/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;113,05;Cartão de Crédito
+06/06/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;480,00;Pix
+09/06/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;332,22;Cartão de Crédito
+12/06/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+09/06/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;143,75;Débito
+11/06/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;78,90;Débito
+13/06/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;181,80;Débito
+15/06/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Restaurante Outback;122,91;Cartão de Crédito
+17/06/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;123,50;Cartão de Crédito
+14/06/2025;Despesa;Estilo de Vida e Lazer;Vestuário;Loja Renner;93,50;Cartão de Crédito
+17/06/2025;Despesa;Gastos Essenciais;Transporte;Uber trabalho;25,72;Pix
+20/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;53,10;Cartão de Crédito
+21/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;23,90;Cartão de Crédito
+24/06/2025;Despesa;Gastos Essenciais;Alimentação;Padaria Central;14,94;Dinheiro
+23/06/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;441,00;Boleto
+26/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Cinema com amigos;44,55;Cartão de Crédito
+28/06/2025;Receita;Receita;Renda Extra;Projeto Freelance;650,00;Pix
+28/06/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;42,52;Débito
+04/07/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;87,01;Débito
+03/07/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/07/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;123,76;Cartão de Crédito
+06/07/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;525,00;Pix
+09/07/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;280,35;Cartão de Crédito
+12/07/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+09/07/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;155,98;Débito
+11/07/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;64,09;Débito
+14/07/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Pizzaria Bate Papo;74,25;Cartão de Crédito
+16/07/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;119,90;Cartão de Crédito
+19/07/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;191,90;Débito
+18/07/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,02;Cartão de Crédito
+19/07/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,65;Cartão de Crédito
+23/07/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;46,80;Dinheiro
+26/07/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;399,00;Boleto
+28/07/2025;Despesa;Gastos Essenciais;Saúde;Consulta Odontológica;142,50;Pix
+28/07/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;57,60;Dinheiro
+01/08/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;116,40;Débito
+05/08/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/08/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;117,81;Cartão de Crédito
+08/08/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;500,00;Pix
+07/08/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;93,32;Débito
+09/08/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/08/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;159,96;Débito
+14/08/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;74,05;Débito
+16/08/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Cafeteria Starbucks;23,62;Cartão de Crédito
+13/08/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;113,90;Cartão de Crédito
+17/08/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;177,60;Débito
+20/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,22;Cartão de Crédito
+21/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,40;Cartão de Crédito
+24/08/2025;Despesa;Compromissos Financeiros;Educação;Curso de Inglês;178,20;Boleto
+23/08/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;520,00;Boleto
+27/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;56,46;Cartão de Crédito
+28/08/2025;Receita;Receita;Renda Extra;Projeto Freelance;816,00;Pix
+02/09/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;319,30;Cartão de Crédito
+07/09/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/09/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;124,95;Cartão de Crédito
+05/09/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;475,00;Pix
+10/09/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/09/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;136,28;Débito
+14/09/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;66,64;Débito
+12/09/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Delivery iFood;64,25;Cartão de Crédito
+14/09/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;119,90;Cartão de Crédito
+17/09/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;181,80;Débito
+21/09/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,02;Cartão de Crédito
+22/09/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,65;Cartão de Crédito
+20/09/2025;Despesa;Estilo de Vida e Lazer;Vestuário;Zattini Calçados;155,90;Cartão de Crédito
+24/09/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;325,50;Boleto
+28/09/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;33,82;Dinheiro
+28/09/2025;Despesa;Categorias Especiais;Doações e Presentes;Presente de Aniversário;115,20;Pix
+05/10/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;53,35;Dinheiro
+03/10/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/10/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;117,81;Cartão de Crédito
+06/10/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;500,00;Pix
+09/10/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;282,80;Cartão de Crédito
+12/10/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/10/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;136,06;Débito
+12/10/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;75,30;Débito
+15/10/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;125,90;Cartão de Crédito
+18/10/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;185,25;Débito
+22/10/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;53,66;Cartão de Crédito
+18/10/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,15;Cartão de Crédito
+21/10/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;44,10;Dinheiro
+25/10/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;673,20;Boleto
+28/10/2025;Despesa;Gastos Essenciais;Saúde;Plano de Saúde;280,00;Boleto
+28/10/2025;Receita;Receita;Renda Extra;Projeto Freelance;404,00;Pix
+01/11/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;99,96;Débito
+04/11/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+05/11/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;123,76;Cartão de Crédito
+07/11/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;525,00;Pix
+10/11/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;309,13;Cartão de Crédito
+08/11/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+11/11/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;141,52;Débito
+13/11/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;67,72;Débito
+16/11/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;118,70;Cartão de Crédito
+20/11/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;190,00;Débito
+18/11/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;56,46;Cartão de Crédito
+19/11/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,40;Cartão de Crédito
+22/11/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Restaurante Outback;149,35;Cartão de Crédito
+26/11/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;426,40;Boleto
+28/11/2025;Despesa;Compromissos Financeiros;Educação;Livros Técnicos;94,40;Cartão de Crédito
+28/11/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;55,29;Débito
+02/12/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;67,20;Dinheiro
+05/12/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/12/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;116,62;Cartão de Crédito
+08/12/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;495,00;Pix
+06/12/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;412,00;Cartão de Crédito
+09/12/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/12/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;175,44;Débito
+14/12/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;87,86;Débito
+17/12/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;124,70;Cartão de Crédito
+16/12/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;194,25;Débito
+19/12/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;53,10;Cartão de Crédito
+20/12/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;23,90;Cartão de Crédito
+23/12/2025;Despesa;Categorias Especiais;Doações e Presentes;Presentes de Natal;339,50;Cartão de Crédito
+27/12/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;764,40;Boleto
+26/12/2025;Despesa;Categorias Especiais;Viagens;Hospedagem Airbnb;445,50;Cartão de Crédito
+28/12/2025;Receita;Receita;Renda Extra;Projeto Freelance;500,00;Pix
+03/01/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;111,10;Débito
+06/01/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+07/01/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;122,57;Cartão de Crédito
+04/01/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;520,00;Pix
+07/01/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;289,28;Cartão de Crédito
+10/01/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+13/01/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;151,87;Débito
+15/01/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;69,26;Débito
+13/01/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;117,50;Cartão de Crédito
+16/01/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;188,10;Débito
+20/01/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;55,90;Cartão de Crédito
+21/01/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,15;Cartão de Crédito
+25/01/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Cafeteria Starbucks;19,28;Débito
+23/01/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;360,50;Boleto
+27/01/2026;Despesa;Gastos Essenciais;Saúde;Exame de Sangue;93,60;Pix
+28/01/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;52,50;Dinheiro
+03/02/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;299,25;Cartão de Crédito
+07/02/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/02/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;115,43;Cartão de Crédito
+05/02/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;490,00;Pix
+10/02/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/02/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;142,10;Débito
+14/02/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;64,84;Débito
+12/02/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Pizzaria Bate Papo;81,60;Cartão de Crédito
+14/02/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;123,50;Cartão de Crédito
+17/02/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;187,20;Débito
+21/02/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;58,70;Cartão de Crédito
+22/02/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;23,65;Cartão de Crédito
+20/02/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;43,20;Dinheiro
+24/02/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;407,40;Boleto
+28/02/2026;Despesa;Compromissos Financeiros;Educação;Mensalidade Faculdade;343,00;Boleto
+03/03/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;94,05;Débito
+07/03/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/03/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;120,19;Cartão de Crédito
+05/03/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;510,00;Pix
+09/03/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;340,31;Cartão de Crédito
+11/03/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+14/03/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;146,48;Débito
+11/03/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;66,59;Débito
+14/03/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;115,10;Cartão de Crédito
+18/03/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;189,15;Débito
+21/03/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,78;Cartão de Crédito
+22/03/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,65;Cartão de Crédito
+21/03/2026;Despesa;Estilo de Vida e Lazer;Vestuário;Decathlon Esportes;189,00;Cartão de Crédito
+24/03/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;595,90;Boleto
+28/03/2026;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;49,47;Débito
+28/03/2026;Receita;Receita;Renda Extra;Projeto Freelance;721,00;Pix
+04/04/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;67,60;Dinheiro
+03/04/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/04/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;113,05;Cartão de Crédito
+06/04/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;480,00;Pix
+09/04/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;281,30;Cartão de Crédito
+12/04/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/04/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;146,52;Débito
+12/04/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;67,30;Débito
+15/04/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;121,10;Cartão de Crédito
+18/04/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;188,70;Débito
+22/04/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,58;Cartão de Crédito
+18/04/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,90;Cartão de Crédito
+21/04/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Delivery iFood;57,75;Cartão de Crédito
+25/04/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;294,50;Boleto
+28/04/2026;Despesa;Compromissos Financeiros;Educação;Curso de Inglês;172,80;Boleto
+28/04/2026;Despesa;Categorias Especiais;Doações e Presentes;Doação Instituição;48,50;Pix
+01/05/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;87,22;Débito
+04/05/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+05/05/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;119,00;Cartão de Crédito
+07/05/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;505,00;Pix
+10/05/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;346,80;Cartão de Crédito
+08/05/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+11/05/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;158,50;Débito
+13/05/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;78,54;Débito
+16/05/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;113,90;Cartão de Crédito
+20/05/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;182,40;Débito
+18/05/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,22;Cartão de Crédito
+19/05/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,40;Cartão de Crédito
+22/05/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;44,55;Dinheiro
+26/05/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;480,00;Boleto
+28/05/2026;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;37,47;Débito
+28/05/2026;Receita;Receita;Renda Extra;Projeto Freelance;561,00;Pix
+01/06/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;59,74;Dinheiro
+05/06/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/06/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;124,95;Cartão de Crédito
+08/06/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;475,00;Pix
+06/06/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;292,80;Cartão de Crédito
+09/06/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/06/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;137,20;Débito Automático
+12/06/2026;Despesa;Estilo de Vida e Lazer;Lazer;Cinema com amigos;44,55;Cartão de Crédito
+13/06/2026;Investimento;Futuro e Investimentos;Reserva de Emergência;Aporte Poupança/CDB;500,00;Pix
+03/06/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/06/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;121,38;Cartão de Crédito
+06/06/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;515,00;Pix
+09/06/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;356,20;Cartão de Crédito
+12/06/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+09/06/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;137,94;Débito
+11/06/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;75,74;Débito
+13/06/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;174,60;Débito
+15/06/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Restaurante Outback;118,09;Cartão de Crédito
+17/06/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;118,70;Cartão de Crédito
+14/06/2025;Despesa;Estilo de Vida e Lazer;Vestuário;Loja Renner;89,90;Cartão de Crédito
+17/06/2025;Despesa;Gastos Essenciais;Transporte;Uber trabalho;24,74;Pix
+20/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,02;Cartão de Crédito
+21/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,65;Cartão de Crédito
+24/06/2025;Despesa;Gastos Essenciais;Alimentação;Padaria Central;16,02;Dinheiro
+23/06/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;472,50;Boleto
+26/06/2025;Despesa;Estilo de Vida e Lazer;Lazer;Cinema com amigos;42,75;Cartão de Crédito
+28/06/2025;Receita;Receita;Renda Extra;Projeto Freelance;624,00;Pix
+28/06/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;40,84;Débito
+04/07/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;83,59;Débito
+03/07/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/07/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;119,00;Cartão de Crédito
+06/07/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;505,00;Pix
+09/07/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;301,00;Cartão de Crédito
+12/07/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+09/07/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;167,23;Débito
+11/07/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;68,67;Débito
+14/07/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Pizzaria Bate Papo;71,25;Cartão de Crédito
+16/07/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;115,10;Cartão de Crédito
+19/07/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;184,30;Débito
+18/07/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,78;Cartão de Crédito
+19/07/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,65;Cartão de Crédito
+23/07/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;45,00;Dinheiro
+26/07/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;383,80;Boleto
+28/07/2025;Despesa;Gastos Essenciais;Saúde;Consulta Odontológica;153,00;Pix
+28/07/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;61,80;Dinheiro
+01/08/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;124,80;Débito
+05/08/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/08/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;113,05;Cartão de Crédito
+08/08/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;480,00;Pix
+07/08/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;89,63;Débito
+09/08/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/08/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;153,75;Débito
+14/08/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;71,20;Débito
+16/08/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Cafeteria Starbucks;22,72;Cartão de Crédito
+13/08/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;122,30;Cartão de Crédito
+17/08/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;190,55;Débito
+20/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;58,14;Cartão de Crédito
+21/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;26,14;Cartão de Crédito
+24/08/2025;Despesa;Compromissos Financeiros;Educação;Curso de Inglês;171,00;Boleto
+23/08/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;499,20;Boleto
+27/08/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,22;Cartão de Crédito
+28/08/2025;Receita;Receita;Renda Extra;Projeto Freelance;784,00;Pix
+02/09/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;306,90;Cartão de Crédito
+07/09/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/09/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;120,19;Cartão de Crédito
+05/09/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;510,00;Pix
+10/09/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/09/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;146,12;Débito
+14/09/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;71,40;Débito
+12/09/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Delivery iFood;61,66;Cartão de Crédito
+14/09/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;115,10;Cartão de Crédito
+17/09/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;174,60;Débito
+21/09/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,78;Cartão de Crédito
+22/09/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,65;Cartão de Crédito
+20/09/2025;Despesa;Estilo de Vida e Lazer;Vestuário;Zattini Calçados;149,90;Cartão de Crédito
+24/09/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;313,10;Boleto
+28/09/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;36,31;Dinheiro
+28/09/2025;Despesa;Categorias Especiais;Doações e Presentes;Presente de Aniversário;123,60;Pix
+05/10/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;57,20;Dinheiro
+03/10/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/10/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;113,05;Cartão de Crédito
+06/10/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;480,00;Pix
+09/10/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;271,60;Cartão de Crédito
+12/10/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/10/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;130,78;Débito
+12/10/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;72,40;Débito
+15/10/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;121,10;Cartão de Crédito
+18/10/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;198,90;Débito
+22/10/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,58;Cartão de Crédito
+18/10/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,90;Cartão de Crédito
+21/10/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;47,25;Dinheiro
+25/10/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;646,00;Boleto
+28/10/2025;Despesa;Gastos Essenciais;Saúde;Plano de Saúde;268,80;Boleto
+28/10/2025;Receita;Receita;Renda Extra;Projeto Freelance;388,00;Pix
+01/11/2025;Despesa;Gastos Essenciais;Alimentação;Açougue Real;96,04;Débito
+04/11/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+05/11/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;119,00;Cartão de Crédito
+07/11/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;505,00;Pix
+10/11/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;331,91;Cartão de Crédito
+08/11/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+11/11/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;151,74;Débito
+13/11/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;72,55;Débito
+16/11/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;113,90;Cartão de Crédito
+20/11/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;182,40;Débito
+18/11/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;54,22;Cartão de Crédito
+19/11/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,40;Cartão de Crédito
+22/11/2025;Despesa;Estilo de Vida e Lazer;Alimentação fora;Restaurante Outback;143,55;Cartão de Crédito
+26/11/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;410,00;Boleto
+28/11/2025;Despesa;Compromissos Financeiros;Educação;Livros Técnicos;90,80;Cartão de Crédito
+28/11/2025;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;59,36;Débito
+02/12/2025;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;72,10;Dinheiro
+05/12/2025;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+06/12/2025;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;124,95;Cartão de Crédito
+08/12/2025;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;475,00;Pix
+06/12/2025;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;395,52;Cartão de Crédito
+09/12/2025;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/12/2025;Despesa;Gastos Essenciais;Moradia;Conta de Luz;168,56;Débito
+14/12/2025;Despesa;Gastos Essenciais;Moradia;Conta de Água;84,45;Débito
+17/12/2025;Despesa;Gastos Essenciais;Moradia;Internet Fibra;119,90;Cartão de Crédito
+16/12/2025;Despesa;Gastos Essenciais;Transporte;Combustível Shell;186,85;Débito
+19/12/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;57,02;Cartão de Crédito
+20/12/2025;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,65;Cartão de Crédito
+23/12/2025;Despesa;Categorias Especiais;Doações e Presentes;Presentes de Natal;364,00;Cartão de Crédito
+27/12/2025;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;819,00;Boleto
+26/12/2025;Despesa;Categorias Especiais;Viagens;Hospedagem Airbnb;427,50;Cartão de Crédito
+28/12/2025;Receita;Receita;Renda Extra;Projeto Freelance;480,00;Pix
+03/01/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;106,70;Débito
+06/01/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+07/01/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;117,81;Cartão de Crédito
+04/01/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;500,00;Pix
+07/01/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;278,26;Cartão de Crédito
+10/01/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+13/01/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;162,95;Débito
+15/01/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;74,26;Débito
+13/01/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;125,90;Cartão de Crédito
+16/01/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;180,50;Débito
+20/01/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;53,66;Cartão de Crédito
+21/01/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,15;Cartão de Crédito
+25/01/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Cafeteria Starbucks;18,52;Débito
+23/01/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;346,50;Boleto
+27/01/2026;Despesa;Gastos Essenciais;Saúde;Exame de Sangue;90,00;Pix
+28/01/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;50,50;Dinheiro
+03/02/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;321,30;Cartão de Crédito
+07/02/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/02/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;123,76;Cartão de Crédito
+05/02/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;525,00;Pix
+10/02/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+12/02/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;136,42;Débito
+14/02/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;62,27;Débito
+12/02/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Pizzaria Bate Papo;78,40;Cartão de Crédito
+14/02/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;118,70;Cartão de Crédito
+17/02/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;180,00;Débito
+21/02/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;56,46;Cartão de Crédito
+22/02/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;25,40;Cartão de Crédito
+20/02/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Barbearia;46,35;Dinheiro
+24/02/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;436,80;Boleto
+28/02/2026;Despesa;Compromissos Financeiros;Educação;Mensalidade Faculdade;367,50;Boleto
+03/03/2026;Despesa;Gastos Essenciais;Alimentação;Açougue Real;90,25;Débito
+07/03/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+03/03/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;115,43;Cartão de Crédito
+05/03/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;490,00;Pix
+09/03/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;327,10;Cartão de Crédito
+11/03/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+14/03/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;140,90;Débito
+11/03/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;71,50;Débito
+14/03/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;123,50;Cartão de Crédito
+18/03/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;202,80;Débito
+21/03/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;58,70;Cartão de Crédito
+22/03/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;23,65;Cartão de Crédito
+21/03/2026;Despesa;Estilo de Vida e Lazer;Vestuário;Decathlon Esportes;181,44;Cartão de Crédito
+24/03/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;572,30;Boleto
+28/03/2026;Despesa;Gastos Essenciais;Saúde;Farmácia Droga Raia;47,53;Débito
+28/03/2026;Receita;Receita;Renda Extra;Projeto Freelance;693,00;Pix
+04/04/2026;Despesa;Gastos Essenciais;Alimentação;Feira do Produtor;65,00;Dinheiro
+03/04/2026;Receita;Receita;Salário;Salário Mensal Empresa;5500,00;Pix
+04/04/2026;Despesa;Estilo de Vida e Lazer;Cuidados Pessoais;Mensalidade Academia;121,38;Cartão de Crédito
+06/04/2026;Investimento;Futuro e Investimentos;Investimentos;Aporte Mensal Tesouro Selic;515,00;Pix
+09/04/2026;Despesa;Gastos Essenciais;Alimentação;Supermercado BH;301,60;Cartão de Crédito
+12/04/2026;Despesa;Gastos Essenciais;Moradia;Aluguel e Condomínio;1800,00;Boleto
+10/04/2026;Despesa;Gastos Essenciais;Moradia;Conta de Luz;140,60;Débito
+12/04/2026;Despesa;Gastos Essenciais;Moradia;Conta de Água;64,61;Débito
+15/04/2026;Despesa;Gastos Essenciais;Moradia;Internet Fibra;116,30;Cartão de Crédito
+18/04/2026;Despesa;Gastos Essenciais;Transporte;Combustível Shell;181,30;Débito
+22/04/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Netflix;55,34;Cartão de Crédito
+18/04/2026;Despesa;Estilo de Vida e Lazer;Lazer;Assinatura Spotify;24,90;Cartão de Crédito
+21/04/2026;Despesa;Estilo de Vida e Lazer;Alimentação fora;Delivery iFood;55,55;Cartão de Crédito
+25/04/2026;Despesa;Compromissos Financeiros;Dívidas;Fatura Cartão Nubank;316,20;Boleto
+28/04/2026;Despesa;Compromissos Financeiros;Educação;Curso de Inglês;185,40;Boleto
+28/04/2026;Despesa;Categorias Especiais;Doações e Presentes;Doação Instituição;52,00;Pix
