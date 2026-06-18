@@ -1,50 +1,110 @@
-# Pitch (3 minutos)
+# 🎤 Pitch do Fince (3 minutos)
 
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
+## 📋 Estrutura do Pitch
 
-## Estrutura do Pitch
-
-| Tempo | Seção | O que falar |
-|-------|-------|-------------|
-| 0:00 - 0:30 | Problema | A dor que você resolve |
-| 0:30 - 1:30 | Solução | Como o Edu resolve |
-| 1:30 - 2:30 | Demo | Mostre funcionando |
-| 2:30 - 3:00 | Diferencial | Por que é inovador |
-
----
- 
-## Roteiro do Edu
-
-### 🎯 Problema (30 seg)
-> "62% dos brasileiros não sabem o que é reserva de emergência. Muita gente quer aprender sobre finanças, mas não sabe por onde começar — e tem medo de parecer burro perguntando."
-
-### 💡 Solução (60 seg)
-> "O Edu é um educador financeiro que ensina de forma personalizada. Ele usa seus próprios dados para dar exemplos práticos. Não recomenda investimentos — só educa. É como ter um professor particular de finanças disponível 24h."
-
-### 📱 Demo (60 seg)
-> [Compartilhe a tela e faça 2-3 perguntas ao Edu]
-> - "O que é CDI?"
-> - "Onde estou gastando mais?"
-> - "Me explica o que é Tesouro Selic"
-
-### ✨ Diferencial (30 seg)
-> "Diferente de chatbots genéricos, o Edu usa SEUS dados como exemplo. Isso torna o aprendizado concreto. E o melhor: roda 100% local, sem custo e sem enviar seus dados pra ninguém."
+| Tempo       | Seção        | Objetivo                                                                                 |
+| ----------- | ------------ | ---------------------------------------------------------------------------------------- |
+| 0:00 – 0:30 | Problema     | Apresentar a dificuldade da população em adquirir educação financeira de forma acessível |
+| 0:30 – 1:30 | Solução      | Mostrar como o Fince ensina, acompanha e incentiva hábitos financeiros saudáveis         |
+| 1:30 – 2:30 | Demonstração | Exibir o sistema em funcionamento                                                        |
+| 2:30 – 3:00 | Diferenciais | Destacar os recursos exclusivos da plataforma                                            |
 
 ---
 
-## Checklist do Pitch
+## 🚨 O Problema
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+A educação financeira ainda é uma realidade distante para grande parte da população. Muitas pessoas desejam organizar suas finanças, mas não sabem por onde começar ou sentem receio de fazer perguntas consideradas básicas.
+
+> **62% dos brasileiros não sabem o que é uma reserva de emergência.**
+
+Essa falta de conhecimento impacta diretamente a capacidade de planejamento financeiro, controle de gastos e construção de patrimônio.
 
 ---
 
-## Link do Vídeo
+## 💡 A Solução: Fince
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
+O **Fince** é um agente de educação financeira que atua como um mentor personalizado, ajudando usuários a desenvolver conhecimento e hábitos financeiros de forma prática e acessível.
+
+### Principais funcionalidades
+
+* 📚 Explicações simples sobre conceitos financeiros.
+* 🎯 Criação e acompanhamento de metas financeiras.
+* 📊 Análise do controle financeiro pessoal.
+* 💬 Feedbacks personalizados com base nos dados do usuário.
+* ✨ Frases motivacionais e incentivos para manter a disciplina financeira.
+* 🔍 Identificação de pontos fortes e oportunidades de melhoria nos hábitos financeiros.
+
+O Fince não realiza recomendações de investimento. Seu objetivo é educar, orientar e desenvolver a autonomia financeira dos usuários.
+
+---
+
+## 📱 Demonstração
+
+Durante a apresentação, demonstre algumas interações práticas com o agente.
+
+### Exemplos de perguntas
+
+```text
+O que é CDI?
+```
+
+```text
+Me explique o que é Tesouro Selic.
+```
+
+```text
+Onde estou gastando mais dinheiro?
+```
+
+```text
+Como posso economizar mais no meu orçamento?
+```
+
+---
+
+## ✨ Diferenciais
+
+O Fince vai além dos chatbots tradicionais de educação financeira.
+
+### 🧠 Aprendizado Contextualizado
+
+O agente utiliza os dados financeiros do próprio usuário para gerar exemplos e explicações personalizadas, tornando o aprendizado mais prático e relevante.
+
+### 🎥 Integração com Conteúdo Especializado
+
+A base de conhecimento do Fince é enriquecida por conteúdos de canais altamente avaliados sobre finanças no YouTube, processados por meio do NotebookLM.
+
+Isso permite acesso a:
+
+* Recomendações de especialistas;
+* Conteúdo educacional atualizado;
+* Conceitos financeiros explicados de forma simplificada;
+* Conhecimento consolidado em uma única plataforma.
+
+### 📈 Análise Financeira Inteligente
+
+Além de ensinar, o Fince analisa os registros financeiros do usuário para identificar padrões, gerar insights e fornecer feedbacks construtivos que auxiliam na tomada de decisões.
+
+---
+
+## ✅ Checklist da Apresentação
+
+* [ ] Duração máxima de 3 minutos
+* [ ] Problema claramente apresentado
+* [ ] Solução demonstrada na prática
+* [ ] Demonstração funcional do sistema
+* [ ] Diferenciais destacados
+* [ ] Áudio e vídeo com boa qualidade
+
+---
+
+## 🎥 Link do Vídeo
+
+Adicione aqui o link do pitch:
+
+```text
+https://seu-link-aqui.com
+```
+
 
 [Link do vídeo]
