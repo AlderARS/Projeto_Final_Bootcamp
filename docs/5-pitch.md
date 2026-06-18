@@ -1,4 +1,4 @@
-# 🎤 Pitch do Fince (3 minutos)
+# 🎤 Pitch do Fince (3 minutos) 
 
 ## 📋 Estrutura do Pitch
 
