@@ -100,7 +100,5 @@ Além de ensinar, o Fince analisa os registros financeiros do usuário para iden
 
 ## 🎥 Link do Vídeo
 
-Adicione aqui o link do pitch:
-
-[Video Apresentação Fince](https://youtu.be/HDloD-XkIVQ)
+link do pitch: [Video Apresentação Fince](https://youtu.be/HDloD-XkIVQ)
 
